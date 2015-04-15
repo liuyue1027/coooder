@@ -6,6 +6,7 @@ tags:
 - full-stack
 ---
 ##What is a full stack employee?
+![soylent](/images/articles/fullstarckemployee.jpg)
 
 Just as there are full-stack engineers and full-stack startups, the full-stack employee has a powerful combination of skills that make them incredibly valuable. They are adept at navigating the rapidly evolving and shifting technological landscape. They make intuitive decisions amidst information-abundance, where sparse facts mingle loosely with data-drenched opinions. Full stack employees are capable of speaking design lingo, know that using Comic Sans is criminal, and are adept at making mocks in Keynote, Sketch, or Skitch (if it comes to that). And they know the difference between UI and UX.
 
@@ -21,8 +22,6 @@ Being a full stack employee isn’t necessarily easier or harder; it’s differe
 
 With constant internet access comes constant distraction (tragically in the form of another time-wasting listicle on being more productive). And since much of their work involves slicing through thick ambiguity — they’re given to radical clarity in certain lifestyle choices, from adopting monolithic, monochromatic wardrobes to functional culinary choices:
 
-
-Photo by Soylent
 Being full stack is an exercise in shifting between opposite poles. While there’s often less support for individual work and a greater expectation of self-sufficiency (i.e. setting their own hours, using their own devices for work, etc), they’re also expected to collaborate and work in groups effectively. Previously, you’d have an IT manager select the technology for a large team, but with the increasing reliance on self-provided mobile devices, individuals are left to figure out how to communicate across and connect over different platforms. Indeed, Slack, the winningest enterprise tool du jour, integrates with everything, opposite Microsoft’s latter-day strategy of privileging its own platform over all others. These days, if you haven’t integrated with everyone else’s API, you’re already behind. And that’s true of full stack employees too — they must have at least passing knowledge of all the latest apps lest they fall behind and as a result, out of the loop.
 
 Yet full stack employees are expected to deeply understand their domain, but also dynamically deal with shifting priorities and expectations. While not an altogether new phenomenon, the flat nature of many organizations means that pull can come from the top or the bottom, and it’s up to the individual to prioritize one over the other. To evaluate these requests, the FSE stretch across traditional organization boundaries, while not get stretched too thin. They need to be informed about what everyone else is doing without micromanaging them, and not get uncomfortable working in roles unfamiliar to them: product manager, designer, communicator, strategist, advertiser, consultant, technologist, user advocate, marketer… et cetera and so on!
