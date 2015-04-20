@@ -1,12 +1,11 @@
 title: "The full-stack employee"
 date: 2015-04-07 12:58:52
 categories:
-- 好文
+- 借花献佛
 tags:
-- full-stack
+- full-stack全栈
 ---
 ##What is a full stack employee?
-![soylent](/images/articles/fullstarckemployee.jpg)
 
 Just as there are full-stack engineers and full-stack startups, the full-stack employee has a powerful combination of skills that make them incredibly valuable. They are adept at navigating the rapidly evolving and shifting technological landscape. They make intuitive decisions amidst information-abundance, where sparse facts mingle loosely with data-drenched opinions. Full stack employees are capable of speaking design lingo, know that using Comic Sans is criminal, and are adept at making mocks in Keynote, Sketch, or Skitch (if it comes to that). And they know the difference between UI and UX.
 

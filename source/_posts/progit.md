@@ -1,9 +1,10 @@
 title: "Pro Git"
 date: 2015-04-15 15:19:08
 categories:
-- 好书
+- 富面百城
 tags:
 - git
+- tools
 ---
 ![Pro Git](/images/articles/progit.jpg)
 

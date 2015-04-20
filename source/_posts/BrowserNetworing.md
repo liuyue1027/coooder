@@ -1,11 +1,10 @@
 title: "High Performance Browser Networking"
 date: 2015-04-15 14:44:17
 categories:
-- 好书
+- 富面百城
 tags:
-- performance
+- performance性能
 ---
-![Browser Networking](/images/articles/browsernetworking.jpg)
 
 [READ for FREE](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
 
